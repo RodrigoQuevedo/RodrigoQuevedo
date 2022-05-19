@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @RodrigoQuevedo
-- 🌱 Atualmente estou fazendo um curso de Web Design e estudando com tutoriais: Html, Css, Javascript, Python.
-- 💞️ Estou interesado em colaborar com algúm projeto com aprendiz o estagiario
+- 🌱 Atualmente estou fazendo um curso de Web Design e estudando tutoriais de: Html, Css, Javascript, Python.
+- 💞️ Estou interesado em colaborar com algúm projeto como aprendiz
 - 📫 Meu e-mail é: rodrigo88quevedo#gmail.com
 
 <!---
